@@ -4,7 +4,7 @@ main:
     url: https://scholar.google.com/citations?user=BFzBlOEAAAAJ&hl=fr&oi=ao
 
   - title: "Teaching"
-    url: /talks/    
+    url: /pages/teaching.html    
     
   - title: "CV"
     url: /files/Resume.pdf
