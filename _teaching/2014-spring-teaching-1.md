@@ -1,20 +1,18 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+# Teaching Assistantship Experience
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Washington State University
 
-Heading 1
-======
+I served as a **Teaching Assistant** in the **Computer Science Department** at **Washington State University**.
 
-Heading 2
-======
+### Courses Assisted
 
-Heading 3
-======
+- CPT_S 534 Neural Network Design and Application (Spring 2023)
+
+- CPT_S 540 Artificial Intelligence (Spring 2024)
+- 
+### Responsibilities
+
+- **Office Hours**: Conducted weekly office hours to address student queries.
+- **Grading**: Responsible for grading assignments and providing timely and constructive feedback to students.
+
+
